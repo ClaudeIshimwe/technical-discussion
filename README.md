@@ -12,6 +12,10 @@ It is probably the ideal technical discussion format
 
 ### 2. Gist
 Gist: is a way of sharing a small code snippet. it is part of GitHub
+#### You can embed the gist in your website
+#### You can share the gist link
+Gist example: [my code]
+
 
 
 
