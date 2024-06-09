@@ -54,6 +54,9 @@ Example:
 
 I want to take a picture of a section on the notebook. i can use the scrrenshot and drag the icon to the issues. It creates a URL for me. Click 'Submit this issue', notice now that it appears inside of a Github issue.
 
+Reference the image in this technical documentation
+#### [image](
+
 
 
 
