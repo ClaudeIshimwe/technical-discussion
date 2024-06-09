@@ -40,7 +40,7 @@ One of the most effective ways to do a technical discussion, is to create a Cola
 
 I can reference the notebook 
 #### Collab Example
- this is the [notebook] (https://colab.research.google.com/drive/1UG2nBHJ66p3wJgliIZiaF2YSt8EaxyPM?usp=sharing)
+ this is the [notebook](https://colab.research.google.com/drive/1UG2nBHJ66p3wJgliIZiaF2YSt8EaxyPM#scrollTo=abdI1n9MpZbY) 
 
 
 
