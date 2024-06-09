@@ -14,7 +14,7 @@ It is probably the ideal technical discussion format
 Gist: is a way of sharing a small code snippet. it is part of GitHub
 #### You can embed the gist in your website
 #### You can share the gist link
-Gist example: [my code] (https://gist.github.com/ClaudeIshimwe/f913ec3828f6c2f7e89588d657d6e9a4) 
+Gist example: [my code](https://gist.github.com/ClaudeIshimwe/f913ec3828f6c2f7e89588d657d6e9a4) 
 What's nice about this is that it's an isolated piece of code that i can share with other people, and many communication tools like Slack will auto render out what's in this gist.
 
 If you are going to share code with somebody, it's a lot better to use something like a gist because then they get the exact syntax highlighting, they get the exact format, and you don't have to worry about introducing weird characters that could cause problems. This is a reproducible code sample plus people can comment on your code as well.
