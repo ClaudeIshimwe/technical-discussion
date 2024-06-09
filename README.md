@@ -42,6 +42,21 @@ I can reference the notebook
 #### Collab Example
  this is the [notebook](https://colab.research.google.com/drive/1UG2nBHJ66p3wJgliIZiaF2YSt8EaxyPM#scrollTo=abdI1n9MpZbY) 
 
+### 4. Images
+We can embed images in markdown. It works with Collab Notebook Markdown, Jupyter markdown and with Github.
+
+Steps:
+
+* Go back to my repo (technical-discussion). Go to Issues in Github and add New Issue. what this will do is create a ticket.
+
+Whats neat about creating an issue is that i can later put an image inside of here.
+Example:
+
+I want to take a picture of a section on the notebook. i can use the scrrenshot and drag the icon to the issues. It creates a URL for me. Click 'Submit this issue', notice now that it appears inside of a Github issue.
+
+
+
+
 
 
 
