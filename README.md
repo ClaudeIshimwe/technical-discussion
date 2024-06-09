@@ -54,12 +54,17 @@ Example:
 
 I want to take a picture of a section on the notebook. i can use the scrrenshot and drag the icon to the issues. It creates a URL for me. Click 'Submit this issue', notice now that it appears inside of a Github issue.
 
+Shortcut to create screenshot on windows: Win Key + SHIFT + S
+
 Reference the image in this technical documentation
 #### Image
+
 
 This is a neat trick that is a great way to host images in your notebook.
 Notice when we put this in, you'll see that i have an image that appears as well
 ![image](https://github.com/ClaudeIshimwe/technical-discussion/assets/66249741/9aaf75db-ebba-44e1-bde7-061c558bac96)
+
+We've covered several different forms of technical communication in this brief overview, including how to use Gist, how to use Collab Notebooks, and then how to paste immages.
 
 
 
